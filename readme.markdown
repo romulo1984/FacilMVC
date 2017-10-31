@@ -216,6 +216,8 @@ Esta interface exige apenas que você declare o método carregar(), útil, por e
 dar include em algum arquivo que poderá conter instruções spl_autoload_register()
 para o autoloading das demais classes da lib que você deseja integrar.
 
+## Observação ##
+Podia ser mais facil.
 
 License
 =======================
